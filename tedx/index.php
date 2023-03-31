@@ -17,8 +17,8 @@
 <!-- ar-modes="scene-viewer webxr quick-look" -->
 <model-viewer
     enable-pan
-    src="models/TEDx2_v6.glb"
-    ios-src="models/TEDx_AR_RED.usdz"
+    src="models/TEDx2_micro.glb"
+    ios-src="models/TEDx2_micro.usdz"
     ar
     touch-action="none"
     ar-modes="scene-viewer"
